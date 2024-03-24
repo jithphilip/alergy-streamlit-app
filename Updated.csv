@@ -1,0 +1,348 @@
+Response,Age,Gender,Occupation,Residential Area,Coughing,Cough Frequency,Cough Severity,Sneezing,Sneezing Frequency,Sneezing Severity,Chest Tightness,Chest Tightness Frequency,Chest Tightness Severity,Itching,Itching Frequency,Itching Severity,Watery Eyes,Watery Eyes Frequency,Watery Eyes Severity,Allergy,Allergy Diagnosis,Family History,Smoking Exposure,Air Pollution Exposure,AQI,Pet Ownership
+1,21,Male,Student,Urban,1,1,2,1,2,3,0,0,0,0,0,0,1,1,1,1,Allergic rhinitis,1,1,1,70,0
+2,20,Male,Student,Urban,1,1,1,1,2,2,0,0,0,1,1,1,0,0,0,1,Asthma,1,1,0,95,0
+3,19,Male,Student,Semi Urban,1,3,1,0,0,0,1,2,2,0,0,0,1,1,1,0,Not Applicable,0,1,1,129,1
+4,19,Male,Student,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,100,0
+5,20,Male,Student,Rural,1,1,1,0,0,0,1,1,2,0,0,0,0,0,0,0,Not Applicable,0,0,1,103,1
+6,20,Male,Student,Rural,1,1,2,1,0,2,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,79,0
+7,20,Male,Student,Semi Urban,1,1,2,0,0,0,0,0,0,1,2,1,1,1,1,0,Not Applicable,0,1,1,97,0
+8,25,Female,IT Professional,Urban,0,0,0,1,3,3,0,0,0,0,0,0,1,2,2,1,Allergic Rhinitis,1,1,1,107,1
+9,24,Male,Student,Urban,1,3,2,1,3,2,1,2,1,1,2,2,0,0,0,1,Asthma,1,0,1,105,1
+10,24,Male,Student,Semi Urban,1,3,3,1,2,2,1,1,1,0,0,0,0,0,0,1,Asthma,1,0,1,87,1
+11,21,Male,Student,Rural,1,2,2,1,2,3,0,0,0,0,0,0,1,1,1,0,Not Applicable,0,0,1,95,0
+12,19,Male,Student,Semi Urban,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,73,0
+13,21,Male,Student,Semi Urban,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,74,0
+14,30,Male,IT Professional,Urban,1,1,1,1,2,3,0,0,0,0,0,0,1,1,1,1,Allergic Rhinitis,1,1,1,101,0
+15,18,Female,Student,Semi Urban,0,0,0,1,2,2,1,1,1,0,0,0,1,1,2,1,"Allergic Rhinitis, Asthma",0,0,0,63,0
+16,19,Male,Student,Semi Urban,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,1,72,1
+17,35,Male,Banking,Rural,1,1,1,0,0,0,0,0,0,1,2,1,0,0,0,1,Asthma,0,1,0,56,0
+18,29,Male,Engineer,Urban,0,0,0,1,3,1,0,0,0,1,1,2,0,0,0,0,Not Applicable,0,1,1,111,0
+19,23,Male,Student,Rural,1,3,1,1,1,2,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,50,1
+20,19,Male,Student,Rural,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,95,0
+21,20,Male,Student,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,1,0,54,1
+22,21,Male,Student,Semi Urban,1,1,2,1,3,2,0,0,0,0,0,0,1,1,2,0,Not Applicable,0,0,1,97,1
+23,20,Male,Student,Urban,1,2,2,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,60,0
+24,21,Male,Student,Urban,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,1,88,1
+25,20,Male,Student,Urban,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,Not Applicable,0,0,0,95,0
+26,21,Male,Student,Rural,1,1,2,1,1,2,0,0,0,0,0,0,1,1,2,0,Not Applicable,0,0,0,88,1
+27,56,Female,House Wife,Rural,1,1,2,1,2,2,0,0,0,0,0,0,1,2,2,1,Allergic Rhinitis,1,0,0,54,0
+28,28,Male,Finance,Urban,1,1,1,1,3,1,0,0,0,0,0,0,1,1,1,1,Allergic Rhinitis,1,1,1,70,1
+29,28,Male,Surveyor,Semi Urban,1,1,1,1,3,2,0,0,0,0,0,0,1,3,1,1,"Allergic Rhinitis, Hay Fever",0,1,1,88,0
+30,18,Female,Student,Rural,0,0,0,1,3,2,0,0,0,1,1,1,1,2,1,1,Allergic Rhinitis,1,0,0,55,0
+31,27,Male,Surveyor ,Rural,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,1,Allergic Rhinitis,1,0,0,41,0
+32,28,Female,Accountant ,Urban,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,1,79,0
+33,19,Male,Student,Urban,1,1,1,0,0,0,0,0,0,1,1,2,1,1,2,0,Not Applicable,0,0,1,110,0
+34,21,Female,Student,Rural,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,70,0
+35,21,Male,Student,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,65,0
+36,20,Male,Student,Urban,1,1,2,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,1,1,71,0
+37,21,Male,Student,Rural,0,0,0,1,1,1,0,0,0,1,1,1,1,1,1,0,Not Applicable,0,1,1,89,0
+38,23,Male,Student,Urban,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,Not Applicable,0,0,1,72,0
+39,35,Female,Teacher,Semi Urban,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,Not Applicable,0,0,0,65,0
+40,20,Male,Student,Rural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,79,0
+41,28,Male,Banking,Urban,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,1,0,77,0
+42,47,Female,House Wife,Rural,1,2,2,1,2,1,0,0,0,1,1,1,1,1,1,1,Allergic Rhinitis,1,1,0,67,0
+43,21,Male,Student,Rural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,74,0
+44,20,Male,Student,Semi Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,141.32,1
+45,17,Male,Student,Urban,1,3,1,0,0,0,1,2,1,0,0,0,1,3,2,0,Not Applicable,0,0,0,81,1
+46,22,Male,Student,Urban,1,1,1,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,96,0
+47,23,Female,Student,Rural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,97,0
+48,59,Female,House Wife,Rural,0,0,0,1,3,2,1,2,2,0,0,0,0,0,0,1,Asthma,1,0,0,70,0
+49,37,Female,IT Professional,Urban,0,0,0,1,2,2,1,1,1,0,0,0,1,2,1,1,"Allergic Rhinitis, Asthma",1,0,0,90,1
+50,44,Male,Banking,Semi Urban,1,1,1,0,0,0,1,1,2,0,0,0,0,0,0,1,"Asthma, Allergic Bronchitis",0,1,0,67,0
+51,27,Male,IT Professional,Semi Urban,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,Not Applicable,0,0,0,56,1
+52,34,Female,Teacher,Semi Urban,1,1,2,0,0,0,0,0,0,1,1,1,1,2,1,1,Allergic Rhinitis,0,0,1,91,0
+53,37,Male,Driver,Semi Urban,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,1,"Asthma, Allergic Bronchitis",0,1,0,55,1
+54,24,Male,Student,Urban,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,Not Applicable,0,0,0,65,1
+55,28,Male,Finance,Semi Urban,0,0,0,1,2,2,0,0,0,0,0,0,1,2,1,1,Allergic Rhinitis,1,0,0,54,0
+56,18,Female,Student,Semi Urban,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,66,0
+57,22,Male,Student,Semi Urban,1,2,1,0,0,0,1,1,1,0,0,0,0,0,0,1,Allergic Bronchitis,0,1,1,75,0
+58,25,Male,Student,Rural,0,0,0,1,2,1,0,0,0,0,0,0,1,2,1,1,"Allergic Rhinitis, Asthma",1,1,1,78,1
+59,24,Male,Student,Urban,0,0,0,0,0,0,1,2,2,0,0,0,1,3,1,1,"Asthma, Hay Fever",1,0,1,98,1
+60,21,Male,Student,Urban,1,2,2,0,0,0,1,2,2,0,0,0,0,0,0,1,"Asthma, Allergic Bronchitis",1,1,0,90,0
+61,44,Male,Student,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,67,0
+62,22,Female,Student,Urban,0,0,0,1,3,1,0,0,0,0,0,0,1,2,2,1,"Allergic Rhinitis, Asthma, Hay Fever",1,1,1,78,1
+63,45,Female,Student,Urban,0,0,0,0,0,0,0,0,0,1,3,1,1,2,2,1,"Allergic Rhinitis, Asthma",1,1,0,76,1
+64,45,Female,Nurse,Urban,0,0,0,1,2,2,0,0,0,1,2,2,1,3,1,1,Asthma,1,0,1,100,1
+65,34,Male,Medical Professional ,Urban,0,0,0,1,1,2,0,0,0,0,0,0,1,2,2,1,Allergic Rhinitis,1,0,0,54,0
+66,40,Female,Lawyer ,Urban,0,0,0,0,0,0,1,2,2,1,3,3,1,3,2,1,"Asthma, Hay Fever",1,0,0,69,1
+67,36,Female,Teacher,Rural,0,0,0,1,3,1,0,0,0,0,0,0,1,2,1,1,"Allergic Rhinitis, Hay Fever",0,0,0,60,1
+68,29,Female,IT Professional ,Urban,0,0,0,1,2,1,0,0,0,0,0,0,1,2,1,1,Allergic Rhinitis,0,0,1,95,0
+69,26,Female,Student,Semi Urban,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,67,1
+70,20,Female,Student,Semi Urban,1,2,2,1,1,2,0,0,0,0,0,0,1,3,1,1,"Allergic Rhinitis, Hay Fever",1,0,0,51,0
+71,31,Male,Banking,Urban,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,1,"Asthma, Hay Fever",0,1,0,77,0
+72,32,Male,Banking ,Urban,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,1,"Asthma, Allergic Bronchitis",0,1,1,101,0
+73,21,Female,Student,Semi Urban,1,1,1,0,0,0,0,0,0,1,1,1,1,2,1,1,Allergic Rhinitis,1,0,0,80,0
+74,22,Female,Student,Semi Urban,1,1,1,0,0,0,0,0,0,1,1,1,1,2,1,1,Allergic Rhinitis,1,0,1,96,0
+75,20,Male,Student,Semi Urban,1,1,1,1,2,2,0,0,0,0,0,0,1,1,2,1,Allergic Rhinitis,0,0,1,97,0
+76,23,Male,Student,Semi Urban,1,1,1,1,2,2,0,0,0,0,0,0,1,2,2,1,"Allergic Rhinitis, Hay Fever",1,0,1,112,1
+77,23,Female,Student,Rural,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,59,0
+78,24,Female,Student,Rural,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,69,0
+79,29,Female,Student,Urban,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,69,1
+80,20,Male,Student,Semi Urban,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,1,0,67,0
+81,19,Male,Student,Semi Urban,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,51,0
+82,23,Male,Student,Semi Urban,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,66,0
+83,21,Male,Student,Semi Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,0,61,0
+84,21,Male,Student,Semi Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,55,0
+85,23,Male,Student,Semi Urban,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,1,0,81,0
+86,25,Male,Student,Semi Urban,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,1,0,53,0
+87,24,Male,Student,Urban,1,2,3,0,0,0,1,1,2,0,0,0,0,0,0,1,Allergic Rhinitis,0,1,0,79,0
+88,30,Female,IT Professional ,Semi Urban,0,0,0,1,3,3,0,0,0,1,2,1,1,1,1,1,"Allergic Rhinitis, Hay Fever",1,0,0,57,0
+89,22,Female,Student,Semi Urban,0,0,0,1,3,2,0,0,0,1,1,2,0,0,0,1,Hay Fever,0,0,1,91,0
+90,25,Male,Student,Rural,1,3,1,0,0,0,1,1,3,0,0,0,0,0,0,1,Allergic Rhinitis,1,1,0,65,0
+91,30,Female,IT Professional ,Semi Urban,1,3,2,1,2,2,0,0,0,1,1,1,0,0,0,1,"Allergic Rhinitis, Hay Fever",1,0,1,102,0
+92,32,Female,Construction ,Rural,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,57,0
+93,28,Male,Finance,Urban,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,0,Not Applicable,0,1,0,71,0
+94,23,Male,Student,Semi Urban,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,70,0
+95,27,Male,IT Professional ,Semi Urban,1,1,2,0,0,0,0,0,0,1,2,1,0,0,0,1,"Allergic Rhinitis, Allergic Bronchitis",0,0,0,63,0
+96,27,Male,Banking,Semi Urban,1,1,2,0,0,0,0,0,0,1,2,1,0,0,0,1,"Allergic Rhinitis, Hay Fever",0,1,0,65,0
+97,33,Female,House Wife,Semi Urban,0,0,0,1,3,1,0,0,0,0,0,0,1,2,2,1,Allergic Rhinitis,0,0,0,75,0
+98,32,Female,Teacher ,Semi Urban,0,0,0,1,3,1,0,0,0,0,0,0,1,2,2,1,Allergic Rhinitis,1,0,0,73,0
+99,22,Male,Student,Rural,1,1,3,0,0,0,1,2,1,1,1,1,0,0,0,1,"Asthma, Allergic Bronchitis",0,1,0,63,0
+100,23,Male,Student,Rural,1,1,3,0,0,0,1,2,1,1,1,1,0,0,0,1,Asthma,1,1,0,61,0
+101,19,Male,Student,Semi Urban,0,0,0,1,3,3,0,0,0,1,2,3,1,1,1,1,"Allergic Rhinitis, Hay Fever",1,0,1,99,0
+102,19,Male,Student,Semi Urban,0,0,0,1,3,3,0,0,0,1,2,3,1,1,1,1,"Allergic Rhinitis, Hay Fever",0,1,1,100,0
+103,23,Female,Student,Rural,1,1,3,0,0,0,1,2,3,0,0,0,0,0,0,1,Allergic Rhinitis,0,0,0,53,0
+104,24,Female,Student,Rural,1,1,3,0,0,0,1,2,3,0,0,0,0,0,0,1,Allergic Rhinitis,1,0,0,55,0
+105,22,Male,Student,Semi Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,63,0
+106,22,Male,Student,Semi Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,66,0
+107,44,Male,Agriculture,Rural,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,53,0
+108,41,Male,Agriculture ,Rural,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,60,0
+109,39,Female,House Wife,Rural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,61,0
+110,37,Female,House Wife,Rural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,57,0
+111,28,Male,IT Professional,Urban,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,1,1,97,0
+112,29,Male,IT Professional,Urban,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,1,1,99,0
+113,26,Male,Student,Semi Urban,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,67,0
+114,25,Male,Student,Semi Urban,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,71,0
+115,20,Female,Student,Urban,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,Not Applicable,0,1,0,88,0
+116,21,Female,Student,Urban,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,Not Applicable,0,0,0,88,0
+117,19,Male,Student,Urban,1,1,1,1,3,2,0,0,0,1,2,3,0,0,0,1,Allergic Rhinitis,1,0,1,101,0
+118,18,Male,Student,Urban,1,1,1,1,3,2,0,0,0,1,2,3,0,0,0,1,Allergic Rhinitis,1,0,1,110,0
+119,29,Female,Finance,Semi Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,69,0
+120,28,Male,Banking ,Semi Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,63,0
+121,19,Male,Student,Urban,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,87,0
+122,23,Male,Student,Urban,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,1,0,77,0
+123,31,Male,IT Professional,Semi Urban,1,3,3,0,0,0,1,3,2,0,0,0,0,0,0,1,"Allergic Rhinitis, Asthma",0,1,1,107,0
+124,22,Female,Student,Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,88,0
+125,32, Female , Teacher    ,Urban,1,3,2,1,2,1,1,3,3,1,1,2,0,0,0,1, Allergic Rhinitis ,1,0,1,70,1
+126,45, Male   , Engineer   ,Semi Urban,1,2,3,1,2,2,1,2,1,0,0,0,1,3,3,1, Allergic Rhinitis ,0,1,1,90,0
+127,28, Female , Nurse      ,Rural,1,3,1,1,3,3,1,3,2,1,2,2,0,0,0,1, Allergic Rhinitis ,1,0,0,61,1
+128,38, Male   , Accountant ,Urban,1,3,3,1,3,3,1,3,3,0,0,0,1,3,3,1, Allergic Rhinitis ,1,1,1,88,1
+129,50, Female ,Nurse,Urban,1,2,2,1,2,1,1,2,1,1,2,3,0,0,0,1, Allergic Rhinitis ,0,0,1,100,0
+130,22, Male   , Student    ,Rural,1,3,3,1,3,3,1,3,3,0,0,0,1,3,3,1, Allergic Rhinitis ,0,0,0,50,1
+131,35, Female , Lawyer     ,Urban,1,3,2,1,3,2,1,3,3,0,0,0,1,3,2,1, Allergic Rhinitis ,1,1,1,85,0
+132,40, Male   , Chef       ,Semi Urban,1,2,1,1,2,1,1,2,2,1,3,3,0,0,0,1, Allergic Rhinitis ,1,0,0,48,1
+133,27, Female , Artist     ,Rural,1,3,3,1,3,3,1,3,3,1,2,2,0,0,0,1, Allergic Rhinitis ,0,0,1,78,0
+134,48, Male   , Pilot      ,Urban,1,3,2,1,2,2,1,3,3,1,3,3,0,0,0,1, Allergic Rhinitis ,1,1,1,95,1
+135,30, Female ,House Wife,Urban,1,2,3,1,2,1,1,2,2,0,0,0,1,3,3,1, Allergic Rhinitis ,0,0,1,85,0
+136,55, Male   , Professor  ,Rural,1,3,3,1,3,3,1,3,3,1,2,2,0,0,0,1, Allergic Rhinitis ,1,0,0,52,1
+137,25, Female ,IT Professional,Semi Urban,1,3,2,1,3,2,1,3,3,0,0,0,1,2,3,1, Allergic Rhinitis ,1,1,1,90,0
+138,30,  Female ,  Accountant    ,Urban,1,2,1,0,0,0,0,0,0,1,1,2,1,2,1,0,Not Applicable,1,0,1,99,1
+139,45,   Male  ,    Teacher     ,Rural,0,0,0,1,3,3,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,1,0,42,0
+140,28,  Other  ,   Freelancer   ,Semi Urban,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,Not Applicable,1,0,1,75,0
+141,35,  Female ,    Engineer    ,Urban,1,2,2,1,2,2,1,2,1,1,1,2,1,3,1,0,Not Applicable,0,0,0,58,1
+142,50,   Male  ,  Entrepreneur  ,Semi Urban,0,0,0,1,3,2,0,0,0,1,3,3,0,0,0,0,Not Applicable,1,1,1,63,1
+143,42,   Male  ,   Nurse        ,Urban,1,2,2,1,2,3,0,0,0,0,0,0,1,2,1,0,Not Applicable,1,0,1,70,0
+144,37,   Male  ,   Lawyer       ,Rural,0,0,0,1,3,3,1,3,1,0,0,0,0,0,0,0,Not Applicable,1,0,0,48,0
+145,26,   Male  ,   Artist       ,Semi Urban,1,1,2,0,0,0,1,1,2,1,3,1,0,0,0,0,Not Applicable,0,0,1,68,1
+146,48,   Male  ,   Professor    ,Urban,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,91,0
+147,33,   Male  ,IT Professional,Semi Urban,1,2,2,0,0,0,1,1,1,1,3,2,0,0,0,0,Not Applicable,1,0,1,72,1
+148,29,   Male  ,IT Professional,Rural,0,0,0,0,0,0,1,1,1,0,0,0,1,2,1,0,Not Applicable,0,0,0,50,0
+149,40,   Male  ,   Architect    ,Urban,1,2,2,0,0,0,0,0,0,1,2,1,1,1,2,0,Not Applicable,1,0,1,91,1
+150,29,   Male  , Teacher    ,Urban,1,1,2,0,0,0,1,1,2,0,0,0,1,3,2,0,Not Applicable,0,0,1,120,1
+151,35,   Male  , Engineer   ,Semi Urban,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,Not Applicable,1,1,0,85,0
+152,42, Other  , Artist     ,Rural,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,1,0,90,1
+153,27, Female , Nurse      ,Urban,0,0,0,1,1,1,0,0,0,1,2,2,0,0,0,0,Not Applicable,0,0,1,95,1
+154,38, Male   , Accountant ,Rural,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,76,0
+155,31, Female , Writer     ,Urban,1,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,75,0
+156,45, Male   , Chef       ,Semi Urban,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Not Applicable,1,1,0,75,1
+157,26, Female , Student    ,Urban,0,0,0,0,0,0,1,2,1,0,0,0,1,3,2,0,Not Applicable,1,0,1,100,0
+158,33, Male   , Lawyer     ,Rural,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,55,1
+159,39, Male   ,House Wife,Semi Urban,0,0,0,1,2,1,0,0,0,0,0,0,1,2,1,0,Not Applicable,0,0,0,63,1
+160,28, Male   , Salesman   ,Urban,0,0,0,0,0,0,1,3,3,0,0,0,0,0,0,0,Not Applicable,0,1,0,70,1
+161,36, Male   , Engineer   ,Rural,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,Not Applicable,1,0,0,100,0
+162,41, Male   , Artist     ,Semi Urban,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,Not Applicable,0,1,1,105,1
+163,30, Male   , Manager    ,Urban,0,0,0,0,0,0,1,1,2,1,1,1,0,0,0,0,Not Applicable,1,1,1,115,0
+164,37, Male   , Consultant ,Rural,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,70,1
+165,20, Male   , Student    ,Urban,0,0,0,1,2,1,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,0,65,0
+166,21, Male   , Student    ,Rural,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,Not Applicable,0,1,1,90,1
+167,22, Male   , Student    ,Semi Urban,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,Not Applicable,1,0,1,95,0
+168,23, Male   , Student    ,Urban,0,0,0,1,2,1,1,3,1,0,0,0,0,0,0,0,Not Applicable,0,1,0,100,0
+169,24, Female , Student    ,Rural,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,Not Applicable,0,0,1,105,1
+170,25, Male   , Student    ,Semi Urban,0,0,0,1,1,2,0,0,0,1,2,2,0,0,0,0,Not Applicable,1,1,1,110,1
+171,30, Male   , Teacher    ,Urban,1,3,3,1,3,3,1,3,3,1,3,3,1,3,3,1,Asthma,1,1,1,150,1
+172,28, Male   , Engineer   ,Rural,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,Allergic Bronchitis,0,0,0,100,1
+173,35, Male   ,Nurse,Semi Urban,0,0,0,1,3,3,1,3,3,1,3,3,1,3,3,1,Allergic Rhinitis,1,1,1,120,1
+174,33, Male   , Lawyer     ,Urban,1,3,3,1,3,3,1,3,3,1,3,3,0,0,0,1,Asthma,0,1,1,140,1
+175,32, Male   , Nurse      ,Rural,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,Allergic Bronchitis,1,0,1,76,1
+176,29, Male   , Artist     ,Semi Urban,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Allergic Rhinitis,0,1,0,90,1
+177,27, Female , Writer     ,Urban,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,Allergic Bronchitis,0,1,1,130,1
+178,31, Male   , Chef       ,Rural,1,3,3,1,3,3,1,3,3,1,3,3,1,3,3,1,Asthma,1,1,0,80,1
+179,26, Female , Student    ,Semi Urban,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Allergic Rhinitis,1,0,1,100,1
+180,34, Male   , Salesman   ,Urban,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,Allergic Bronchitis,0,1,1,120,1
+181,23, Male   , Student    ,Rural,0,0,0,1,3,3,1,3,3,1,3,3,1,3,3,1,Asthma,1,0,1,88,1
+182,25, Male   , Student    ,Semi Urban,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,Allergic Rhinitis,0,1,0,110,1
+183,22, Male   , Student    ,Urban,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,Allergic Bronchitis,1,0,1,130,1
+184,24, Male   , Student    ,Rural,1,3,3,1,3,3,1,3,3,1,3,3,1,3,3,1,Asthma,1,1,0,67,1
+185,21, Male   , Engineer   ,Semi Urban,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Allergic Rhinitis,0,1,1,120,1
+186,20, Male   , Nurse      ,Urban,0,0,0,1,2,2,1,2,2,1,2,2,0,0,0,1,Allergic Bronchitis,1,0,1,100,1
+187,37, Female , Artist     ,Rural,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Allergic Bronchitis,1,1,0,90,1
+188,36, Male   , Writer     ,Semi Urban,1,3,3,1,3,3,0,0,0,1,3,3,1,3,3,1,Asthma,1,1,1,150,1
+189,39, Male   , Chef       ,Urban,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,Allergic Bronchitis,1,1,1,140,1
+190,38, Male   , Lawyer     ,Rural,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,Allergic Rhinitis,1,0,1,90,1
+191,41, Male   , Student    ,Semi Urban,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,Allergic Bronchitis,1,0,1,130,1
+192,40, Male   , Manager    ,Urban,0,0,0,1,3,3,0,0,0,1,3,3,1,3,3,1,Asthma,1,1,1,150,1
+193,43, Female , Consultant ,Rural,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,Allergic Rhinitis,0,0,0,100,1
+194,42, Male   , Architect  ,Semi Urban,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1,Allergic Bronchitis,1,1,1,140,1
+195,45, Female ,Nurse,Urban,1,3,3,1,3,3,0,0,0,1,3,3,1,3,3,1,Asthma,1,1,1,130,1
+196,44, Male   , Engineer   ,Rural,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Allergic Rhinitis,0,0,1,90,1
+197,47, Male   , Nurse      ,Semi Urban,1,2,2,1,2,2,1,2,2,0,0,0,1,2,2,1,Allergic Bronchitis,1,1,0,120,0
+198,46, Male   , Artist     ,Urban,1,3,3,1,3,3,1,3,3,1,3,3,1,3,3,1,Asthma,0,1,1,140,1
+199,49, Male   , Writer     ,Rural,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Allergic Rhinitis,0,1,1,100,1
+200,48, Male   , Chef       ,Semi Urban,1,2,2,1,2,2,1,2,2,0,0,0,0,0,0,1,Allergic Bronchitis,1,1,1,130,1
+201,20, Male   , Student    ,Urban,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,Not Applicable,0,0,0,85,0
+202,21, Female , Student    ,Rural,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,90,1
+203,22, Male   , Student    ,Semi Urban,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,Not Applicable,0,1,0,95,0
+204,23, Male   , Student    ,Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,100,0
+205,24, Male   , Student    ,Rural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,0,55,1
+206,25, Male   , Student    ,Semi Urban,0,0,0,0,0,0,1,1,1,0,0,0,1,2,2,0,Not Applicable,0,0,0,64,0
+207,26, Male   , Student    ,Urban,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,71,0
+208,27, Male   , Student    ,Rural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,81,0
+209,28, Male   , Student    ,Semi Urban,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,Not Applicable,0,1,0,56,0
+210,29, Female , Student    ,Urban,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,1,1,0,66,0
+211,24, Male   , Student    ,Urban,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,90,1
+212,21, Female , Student    ,Rural,0,0,0,0,0,0,1,2,1,0,0,0,1,1,1,0,Not Applicable,0,1,0,70,0
+213,22, Male   , Student    ,Semi Urban,1,1,1,0,0,0,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,0,85,0
+214,23, Female , Student    ,Urban,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,110,1
+215,20, Male   , Student    ,Rural,1,2,2,0,0,0,0,0,0,0,0,0,1,2,2,0,Not Applicable,1,0,1,95,0
+216,20, Male   , Student    ,Semi Urban,0,0,0,1,2,1,1,2,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,81,0
+217,21, Male   , Student    ,Urban,1,3,1,0,0,0,0,0,0,0,0,0,1,3,1,0,Not Applicable,0,0,0,77,0
+218,20, Male   , Student    ,Rural,0,0,0,1,1,2,0,0,0,1,2,3,0,0,0,0,Not Applicable,0,0,1,90,0
+219,23, Male   , Student    ,Semi Urban,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,Not Applicable,0,0,0,68,1
+220,21, Female , Student    ,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,130,0
+221,20, Male   , Student    ,Rural,0,0,0,0,0,0,1,2,2,0,0,0,1,1,2,0,Not Applicable,1,0,0,75,0
+222,21, Male   , Student    ,Semi Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,65,1
+223,22, Male   , Student    ,Urban,1,2,1,0,0,0,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,1,135,0
+224,19, Female , Student    ,Rural,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,73,0
+225,23, Male   , Student    ,Semi Urban,1,1,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,64,0
+226,26, Male   , Student    ,Urban,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,Not Applicable,0,0,0,75,0
+227,24, Female , Student    ,Rural,0,0,0,1,1,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,1,0,1,87,0
+228,22, Male   , Student    ,Semi Urban,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,1,0,88,1
+229,23, Female , Student    ,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,72,0
+230,25, Male   , Student    ,Rural,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,1,1,90,0
+231,20, Female , Student    ,Semi Urban,0,0,0,1,2,1,1,2,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,55,0
+232,27, Male   , Student    ,Urban,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,Not Applicable,1,0,0,67,1
+233,26, Female , Student    ,Rural,0,0,0,1,1,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,1,1,105,0
+234,29, Male   , Student    ,Semi Urban,1,1,1,0,0,0,0,0,0,1,1,2,0,0,0,0,Not Applicable,0,0,1,110,0
+235,28, Female , Student    ,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,81,1
+236,30, Male   , Student    ,Rural,0,0,0,0,0,0,1,2,2,0,0,0,1,2,1,0,Not Applicable,0,1,1,87,0
+237,31, Female , Student    ,Semi Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,125,0
+238,32, Male   , Student    ,Urban,1,2,1,0,0,0,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,0,73,0
+239,33, Female , Student    ,Rural,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,1,89,0
+240,34, Male   , Student    ,Semi Urban,1,1,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,1,97,0
+241,26, Male   , Student    ,Rural,0,0,0,1,2,1,0,0,0,0,0,0,1,2,1,0,Not Applicable,0,0,0,59,0
+242,27, Female , Student    ,Semi Urban,0,0,0,1,1,2,1,2,2,0,0,0,0,0,0,0,Not Applicable,1,0,1,99,0
+243,28, Male   , Student    ,Urban,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,1,101,0
+244,29, Female , Student    ,Rural,0,0,0,0,0,0,1,3,3,0,0,0,0,0,0,0,Not Applicable,0,0,0,64,1
+245,30, Male   , Student    ,Semi Urban,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,1,114,1
+246,31, Female , Student    ,Urban,0,0,0,1,2,2,0,0,0,0,0,0,1,2,2,0,Not Applicable,0,1,0,75,0
+247,32, Male   , Student    ,Rural,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,70,0
+248,33, Female , Student    ,Semi Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,67,0
+249,34, Male   , Student    ,Urban,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,1,110,0
+250,35, Female , Student    ,Rural,0,0,0,1,2,1,1,2,3,0,0,0,0,0,0,0,Not Applicable,1,0,0,79,1
+251,25, Male   ,Engineer,Urban,1,2,1,0,0,0,0,0,0,0,0,0,1,2,1,0,Not Applicable,0,0,0,70,1
+252,26, Female ,Engineer,Rural,0,0,0,1,1,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,1,0,74,1
+253,23, Male   , Student    ,Semi Urban,1,2,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,62,0
+254,24, Female , Student    ,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,100,1
+255,21, Male   , Student    ,Rural,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,1,0,1,87,1
+256,22, Female , Student    ,Semi Urban,0,0,0,1,2,1,1,2,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,67,0
+257,27, Male   ,Banking,Urban,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,Not Applicable,0,0,0,90,1
+258,28, Male   ,Banking,Rural,0,0,0,1,1,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,1,0,77,1
+259,29, Male   ,Banking,Semi Urban,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,82,0
+260,30, Male   ,Banking,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,125,1
+261,25, Male   ,Engineer,Rural,1,2,1,0,0,0,1,1,1,0,0,0,1,2,1,0,Not Applicable,1,0,0,68,1
+262,26, Female ,Engineer,Semi Urban,0,0,0,1,1,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,1,95,1
+263,23, Male   , Student    ,Urban,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,70,0
+264,24, Female , Student    ,Rural,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,1,1,100,1
+265,21, Male   , Student    ,Semi Urban,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,1,110,1
+266,22, Female , Student    ,Urban,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,0,100,0
+267,27, Male   ,IT Professional,Rural,1,3,1,0,0,0,0,0,0,0,0,0,1,3,3,0,Not Applicable,0,0,0,105,1
+268,28, Female ,IT Professional,Semi Urban,0,0,0,1,1,1,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,0,80,1
+269,29, Male   ,IT Professional,Urban,1,1,1,0,0,0,0,0,0,1,1,2,0,0,0,0,Not Applicable,0,0,0,76,0
+270,30, Male   ,IT Professional,Rural,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,59,1
+271,25, Male   , Student    ,Semi Urban,1,2,1,0,0,0,1,1,1,0,0,0,1,2,1,0,Not Applicable,0,1,0,80,1
+272,26, Male   , Student    ,Urban,0,0,0,1,1,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,1,95,1
+273,23, Male   , Student    ,Rural,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,65,0
+274,24, Male   , Student    ,Semi Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,100,1
+275,21, Male   , Student    ,Urban,0,0,0,1,2,1,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,1,110,1
+276,22, Female , Student    ,Rural,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,71,0
+277,25, Male   , Teacher    ,Urban,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,1, Allergic Rhinitis                ,1,0,1,110,0
+278,30, Female , Engineer   ,Rural,1,3,3,1,3,3,1,3,3,1,3,3,1,3,3,1, Asthma                           ,1,1,1,98,1
+279,28, Male   , Chef       ,Semi Urban,1,2,2,1,2,2,0,0,0,0,0,0,0,0,0,1, Allergic Bronchitis             ,1,1,1,97,0
+280,26, Female , Chef       ,Urban,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Hay Fever,0,1,1,100,0
+281,21, Male   , Student    ,Rural,0,0,0,1,3,3,0,0,0,1,3,3,1,3,3,1, Other                            ,1,0,0,65,0
+282,20, Female , Student    ,Semi Urban,1,2,3,0,0,0,1,2,3,0,0,0,1,2,3,1, Allergic Rhinitis                ,1,0,1,111,0
+283,19, Male   , Student    ,Urban,1,3,3,1,3,3,1,3,3,0,0,0,1,3,3,1, Asthma                           ,1,0,1,113,1
+284,24, Female , Student    ,Rural,0,0,0,1,2,2,1,2,2,1,2,2,1,2,2,1, Allergic Bronchitis             ,1,1,1,88,0
+285,22, Male   , Student    ,Semi Urban,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,Hay Fever,0,1,1,111,0
+286,23, Female , Student    ,Urban,0,0,0,1,3,3,0,0,0,1,3,3,0,0,0,1, Other                            ,1,1,1,99,1
+287,32, Male   , Engineer   ,Urban,1,3,3,1,3,3,0,0,0,1,3,3,0,0,0,1, Allergic Rhinitis              ,1,1,1,101,0
+288,28, Female , Teacher    ,Rural,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1, Allergic Bronchitis           ,0,1,1,102,0
+289,35, Male   , Artist     ,Semi Urban,1,1,2,1,1,2,1,1,2,0,0,0,1,1,2,1, Asthma                        ,0,1,0,69,1
+290,26, Female , Artist     ,Urban,0,0,0,1,2,1,1,2,1,1,2,1,1,2,1,1,Hay Fever,1,0,0,75,1
+291,30, Male   ,IT Professional,Rural,1,3,3,0,0,0,1,3,3,0,0,0,1,3,3,1, Allergic Rhinitis              ,1,1,1,106,0
+292,29, Female , Artist     ,Semi Urban,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,1, Allergic Bronchitis           ,0,0,1,100,0
+293,31, Male   , Lawyer     ,Urban,0,0,0,1,3,3,1,3,3,0,0,0,1,3,3,1, Asthma                        ,1,1,0,78,1
+294,27, Female , Dentist    ,Rural,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,Hay Fever,0,1,0,57,0
+295,33, Male   , Chef       ,Semi Urban,0,0,0,1,2,2,1,2,2,1,2,2,1,2,2,1, Allergic Rhinitis              ,1,0,1,120,0
+296,26, Female , Chef       ,Urban,1,3,3,0,0,0,1,3,3,1,3,3,1,3,3,1, Allergic Bronchitis           ,1,1,1,115,1
+297,34, Male   , Athlete    ,Rural,1,2,1,1,2,1,1,2,1,1,2,1,0,0,0,1, Asthma                        ,0,1,1,75,0
+298,29, Female , Chef       ,Semi Urban,1,1,2,1,1,2,0,0,0,1,1,2,1,1,2,1,Hay Fever,0,0,1,100,0
+299,32, Male   , Chef       ,Urban,0,0,0,1,2,3,1,2,3,1,2,3,1,2,3,1, Allergic Rhinitis              ,1,1,0,80,1
+300,28, Female , Chef       ,Rural,1,2,1,1,2,1,1,2,1,1,2,1,1,2,1,1, Allergic Bronchitis           ,0,1,0,87,0
+301,25, Male   , Student    ,Urban,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,105,1
+302,22, Female , Student    ,Rural,0,0,0,1,2,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,1,85,0
+303,28, Male   , Student    ,Semi Urban,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,71,0
+304,30, Female , Student    ,Urban,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,1,111,0
+305,55, Male   ,Farmer,Rural,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,95,1
+306,26, Female , Student    ,Semi Urban,1,2,1,0,0,0,1,2,3,0,0,0,1,2,3,0,Not Applicable,0,1,0,90,1
+307,22, Male   , Student    ,Urban,0,0,0,1,1,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,1,0,1,111,0
+308,24, Female , Student    ,Rural,1,3,3,0,0,0,1,3,3,0,0,0,0,0,0,0,Not Applicable,0,0,0,100,1
+309,20, Male   , Student    ,Semi Urban,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,57,0
+310,21, Female , Student    ,Urban,1,1,2,0,0,0,1,1,1,0,0,0,1,1,1,0,Not Applicable,0,0,1,111,0
+311,20, Male   , Student    ,Urban,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,100,0
+312,21, Female , Student    ,Rural,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,0,105,1
+313,22, Male   , Student    ,Semi Urban,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,110,0
+314,23, Female , Student    ,Urban,1,2,1,0,0,0,0,0,0,0,0,0,1,2,3,0,Not Applicable,0,1,0,115,0
+315,24, Male   , Student    ,Rural,0,0,0,1,2,1,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,73,1
+316,25, Female , Student    ,Semi Urban,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Not Applicable,0,0,0,125,1
+317,26, Male   , Student    ,Urban,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,1,100,0
+318,22, Male   , Student    ,Urban,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,105,0
+319,28, Male   , Student    ,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,110,0
+320,30, Male   , Student    ,Urban,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,1,100,0
+321,23, Male   , Student    ,Urban,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,95,1
+322,26, Male   , Student    ,Urban,1,2,1,0,0,0,1,2,2,0,0,0,0,0,0,0,Not Applicable,0,0,0,90,1
+323,27, Male   , Student    ,Urban,0,0,0,1,1,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,1,0,1,105,0
+324,24, Male   , Student    ,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,100,0
+325,29, Male   , Student    ,Urban,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,110,0
+326,21, Male   , Student    ,Urban,1,1,2,0,0,0,1,1,1,0,0,0,1,1,1,0,Not Applicable,0,0,1,95,0
+327,23, Male   , Student    ,Urban,0,0,0,0,0,0,0,0,0,1,2,3,0,0,0,0,Not Applicable,0,0,1,100,0
+328,24, Male   , Student    ,Rural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,0,82,0
+329,22, Male   , Student    ,Semi Urban,1,2,1,0,0,0,1,2,1,0,0,0,1,2,1,0,Not Applicable,0,0,0,120,1
+330,28, Female , Student    ,Urban,0,0,0,1,1,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,1,95,0
+331,25, Male   , Student    ,Rural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,77,0
+332,22,Female,Student,Urban,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,1,0,65,0
+333,27, Male   ,IT Professional,Urban,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,105,1
+334,23, Male   , Student    ,Semi Urban,0,0,0,1,2,2,0,0,0,1,2,1,0,0,0,0,Not Applicable,0,0,1,95,0
+335,26, Male   , Student    ,Rural,0,0,0,1,1,3,0,0,0,1,1,2,0,0,0,0,Not Applicable,0,0,0,90,1
+336,20, Male   , Student    ,Urban,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,1,100,0
+337,29, Male   ,Driver,Rural,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,0,0,0,95,1
+338,21, Male   , Student    ,Semi Urban,0,0,0,1,2,1,0,0,0,1,2,3,0,0,0,0,Not Applicable,0,0,0,100,1
+339,28, Male   ,Driver,Urban,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,0,105,0
+340,24, Male   , Student    ,Rural,1,1,2,0,0,0,0,0,0,1,1,1,0,0,0,0,Not Applicable,0,0,0,90,0
+341,30, Male   ,Driver,Semi Urban,0,0,0,1,2,1,0,0,0,1,2,3,0,0,0,0,Not Applicable,0,0,0,90,1
+342,25, Female , Student    ,Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not Applicable,1,0,1,115,0
+343,26, Male   , Student    ,Rural,0,0,0,1,1,2,0,0,0,1,1,2,0,0,0,0,Not Applicable,0,0,0,91,0
+344,22, Female , Student    ,Semi Urban,1,2,1,0,0,0,1,2,3,0,0,0,1,2,3,0,Not Applicable,0,1,0,125,0
+345,44, Male   ,Shopkeeper,Urban,1,1,1,0,0,0,1,1,3,0,0,0,1,1,3,0,Not Applicable,0,0,0,95,0
+346,23, Female , Student    ,Rural,0,0,0,1,2,1,0,0,0,0,0,0,1,2,1,0,Not Applicable,0,0,1,100,1
+347,28, Male   ,Journalsit,Semi Urban,1,1,2,0,0,0,1,1,1,0,0,0,1,1,1,0,Not Applicable,1,0,0,90,0
