@@ -38,7 +38,7 @@ preprocessor = ColumnTransformer(
 # Create a pipeline with the classifier
 model = Pipeline(steps=[
     ('preprocessor', preprocessor),
-    ('classifier', RandomForestClassifier(n_estimators=6, random_state=42))
+    ('classifier', RandomForestClassifier(n_estimators=10, random_state=42))
 ])
 
 # Fit the model
